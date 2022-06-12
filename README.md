@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction
+In this project, we would like to predict customer telco churn by fitting 3 classifiers models: K Nearest Neighbors, Logistic Regression, and Random Forest. First of all, I outline the data cleaning and preprocessing procedures to prepare the data for modeling. Then, I am proceeding with each model to be discussed, highlighting what the model actually does, tuning the model's hyperparameters, and concluding what is probably the company does. This project also aims to determine the best model between the three models that we are fitting.
